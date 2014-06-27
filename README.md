@@ -8,7 +8,8 @@ A Flappy Bird clone featuring Luiz Suarez and burritos.
 
 Live App
 ------------
-Check out a live preview of it over here:  
+Check out a live preview of it over here:
+  
 http://aligajani.github.io/suarez-bird/
 
 Notice
