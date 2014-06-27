@@ -16,9 +16,8 @@ Notice
 =====
 Ported from: https://github.com/nebez/floppybird/
 
-var gravity = 0.30;
+var gravity = 0.60;
 
-rotation set to 0;
 
 
 License
