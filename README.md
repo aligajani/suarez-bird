@@ -2,6 +2,7 @@ Suarez Bird
 =========
 
 You know the deal. 
+
 A Flappy Bird clone featuring Luiz Suarez and burritos.
 
 
@@ -13,7 +14,9 @@ http://aligajani.github.io/suarez-bird/
 Notice
 =====
 Ported from: https://github.com/nebez/floppybird/
+
 var gravity = 0.30;
+
 rotation set to 0;
 
 
